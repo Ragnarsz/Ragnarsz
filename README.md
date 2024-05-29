@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ABHIJITH P V
-- 👀 I’m interested in Software coding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web developing
 -
 
